@@ -12,7 +12,7 @@ export const words = {
       }
     },
     navbar: {
-      search: "Search...",
+      search: "Search",
       flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
     } 
   },
@@ -29,7 +29,7 @@ export const words = {
       }
     },
     navbar: {
-      search: "検索...",
+      search: "検索",
       flag: "🇯🇵"
     }
   },
@@ -46,7 +46,7 @@ export const words = {
       }
     },
     navbar: {
-      search: "Tìm kiếm...",
+      search: "Tìm kiếm",
       flag: "🇻🇳"
     }
   }
